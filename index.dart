@@ -1,4 +1,8 @@
 void main() {
-  print('hello abdo');
-  double l = 20;
+}
+
+class Human {
+  String name;
+  int age;
+  Human(this.age, this.name);
 }
